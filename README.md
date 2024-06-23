@@ -25,17 +25,17 @@
 - Twitter: [@YourTwitterHandle]
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveshSoni973&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DeveshSoni973&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🗂️ Highlighted Projects
-<a href="https://github.com/YourGitHubUsername/ProjectName">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=ProjectName&theme=radical" />
+<a href="https://github.com/DeveshSoni973/ProjectName">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeveshSoni973&repo=ProjectName&theme=radical" />
 </a>
-<a href="https://github.com/YourGitHubUsername/AnotherProjectName">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=AnotherProjectName&theme=radical" />
+<a href="https://github.com/DeveshSoni973/AnotherProjectName">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeveshSoni973&repo=AnotherProjectName&theme=radical" />
 </a>
 
 ## 🎯 Goals for 2024
