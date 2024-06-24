@@ -1,7 +1,7 @@
 # Devesh Soni
 
 ## About Me
-[Brief introduction about yourself, your interests, and your professional focus]
+Data Enthusiast. AI and ML explorer
 
 ## 🔭 Current Projects
 - [Project 1]
