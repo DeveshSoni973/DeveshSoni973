@@ -4,7 +4,7 @@
 Data Enthusiast. AI and ML explorer
 
 ## 🔭 Current Projects
-- [Project 1]
+- Integrating ML with Django for deployment
 - [Project 2]
 - [Project 3]
 
