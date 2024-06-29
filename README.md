@@ -44,4 +44,4 @@ Data Enthusiast. AI and ML explorer
 - [Goal 3]
 
 ## ⚡ Fun fact
-[Share an interesting fact about yourself]
+There is nothing fun
