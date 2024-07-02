@@ -39,8 +39,8 @@ Data Enthusiast. AI and ML explorer
 </a>
 
 ## 🎯 Goals for 2024
-- [Goal 1]
-- [Goal 2]
+- DSA
+- Python Revision
 - [Goal 3]
 
 ## ⚡ Fun fact
