@@ -41,7 +41,7 @@ Data Enthusiast. AI and ML explorer
 ## 🎯 Goals for 2024
 - DSA
 - Python Revision
-- [Goal 3]
+- Models
 
 ## ⚡ Fun fact
 There is nothing fun
