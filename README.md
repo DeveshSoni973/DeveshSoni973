@@ -39,7 +39,7 @@ Data Enthusiast. AI and ML explorer
 </a>
 
 ## 🎯 Goals for 2024
-- DSA
+- DSA 
 - Python Revision
 - Models 
 
